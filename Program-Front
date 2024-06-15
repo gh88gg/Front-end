@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title> index1</title>
+<meta name="description" content="Programming site">
+<meta name="key word " content="html , css">
+<meta http-equiv="refresh" content="5"
+<p>Welcome to this program
+    <br>
+    my name is ghasaq
+</p>
+<h3>This is a simple code I learned at first</h3>
+<code>
+    <pre>
+        total = 0
+        for number in range(1, 11):
+            total += number
+        
+        print("مجموع الأرقام من 1 إلى 10 هو:", total)
+    </pre>
+</code>
+<style>
+    body{background: beige;}
+</style>
+</head>
+
+<body></body>
+
+</html>
